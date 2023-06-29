@@ -1,0 +1,16 @@
+C:\Users\Полина\source\repos\BD\bin\Debug\BD.exe.config
+C:\Users\Полина\source\repos\BD\bin\Debug\BD.exe
+C:\Users\Полина\source\repos\BD\bin\Debug\BD.pdb
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.csproj.AssemblyReference.cache
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.FormMain.resources
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.exe
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.pdb
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.FormFilm.resources
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.FormKino.resources
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.FormSeans.resources
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.FormZal.resources
+C:\Users\Полина\source\repos\BD\obj\Debug\BD.FormSQL.resources
